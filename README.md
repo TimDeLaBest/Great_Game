@@ -11,6 +11,12 @@ Download the Game:
  
    Please be nice and do not try to vandalize the gaming system in any way, I appreciate that :)
   
+ File:
+ 
+   Pageone.java are the code
+   
+   The file that ends with JAR are the application project
+  
  Recent Updates:
  
     Jul.25th Version 1.0.5 Update: Adding the Background Color system
