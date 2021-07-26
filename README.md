@@ -9,5 +9,6 @@ Download the Game:
    Please be nice and do not try to vandalize the gaming system in any way, I appreciate that :)
   
  Recent Updates:
-    Jul.25th Version 1.0.5 Update: Adding the Background system \n
+    Jul.25th Version 1.0.5 Update: Adding the Background system 
+    
     Jul.20th The first version of the game is published(Version 1.0.0)
